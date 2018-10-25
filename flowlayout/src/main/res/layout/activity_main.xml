@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bwei.www.flowlayout.MainActivity">
+
+    <com.bwei.www.flowlayout.FlowLayoutTwo
+        android:id="@+id/fl"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.bwei.www.flowlayout.FlowLayoutTwo>
+
+</LinearLayout>
